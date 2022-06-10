@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nurlan. I create small projects for a great portfolio. I want to get a job in an IT company where I can open up, gain knowledge and gain experience.
+My name is Nurlan. I create small projects for a great portfolio. I wanna get a job in an IT company where I can open up, gain knowledge and gain experience. Any task will be for as the goal of life and I will persistently go towards it.
  
 <!--
 **Dyussembekov/Dyussembekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
