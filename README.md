@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Nurlan. I create small projects for a great portfolio. I want to get a job in an IT company where I can open up, gain knowledge and gain experience.
+ 
 <!--
 **Dyussembekov/Dyussembekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
