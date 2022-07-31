@@ -7,8 +7,8 @@ My name is Nurlan. I create small projects for a great portfolio. I wanna get a 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on online pizza ordering shop - React Pizza.
-- 🌱 I’m currently learning React.js.
+- 🔭 I’m currently working on backend project.
+- 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
