@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nurlan</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="Coding" width="100" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyussembekov&label=Profile%20views&color=0e75b6&style=flat" alt="dyussembekov" /> </p>
 
