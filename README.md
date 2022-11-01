@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyussembekov" alt="dyussembekov" /></a> </p>
 
-- 🔭 I’m currently working on [sheira.ru](https://dev.sheira.ru/)
-
 - 🌱 I’m currently learning **Express.js, also Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dyussembekov?tab=repositories](https://github.com/Dyussembekov?tab=repositories)
